@@ -1,3 +1,4 @@
+![YaMDb-app workflow](https://github.com/ildarick93/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 # REST API для сервиса YaMDb- база отзывов о фильмах, книгах и музыке.
 С использованием Continuous Integration и Continuous Deployment. При пуше в ветку main автоматически отрабатывают сценарии:
 
