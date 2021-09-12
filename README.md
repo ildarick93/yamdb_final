@@ -61,12 +61,12 @@ python manage.py createsuperuser.
 К проекту по адресу http://0.0.0.0/redoc/ подключена документация API. В ней описаны шаблоны запросов к API и ответы. Для каждого запроса указаны уровни прав доступа - пользовательские роли, которым разрешён запрос.
 
 ## Технологии используемые в проекте
-* Python, 
-* Django, 
-* Django REST Framework, 
-* PostgreSQL, 
-* Nginx, 
-* Docker, 
+* Python 
+* Django 
+* Django REST Framework 
+* PostgreSQL 
+* Nginx 
+* Docker 
 * GitHub Actions
 * DevOps
 
