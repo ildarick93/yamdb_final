@@ -1,4 +1,3 @@
-![YaMDb-app workflow](https://github.com/ildarick93/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 # REST API для сервиса YaMDb- база отзывов о фильмах, книгах и музыке.
 С использованием Continuous Integration и Continuous Deployment. При пуше в ветку main автоматически отрабатывают сценарии:
 
@@ -75,3 +74,4 @@ python manage.py createsuperuser.
 ILDAR SALIAKHOV - автор, студент курса Python-разработчик в Яндекс.Практикум. Это учебный проект. Если есть вопросы или пожелания по проекту пишите на почту - saliakhovif@yandex.ru
 
 ## Бэйдж
+![YaMDb-app workflow](https://github.com/ildarick93/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
