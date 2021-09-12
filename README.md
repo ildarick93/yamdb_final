@@ -37,6 +37,7 @@ scp ./<FILENAME> <USER>@<HOST>:/home/<USER>/yamdb_final/
 ```python
 DOCKER_PASSWORD, DOCKER_USERNAME - для загрузки и скачивания образа с DockerHub
 USER, HOST, PASSPHRASE, SSH_KEY - для подключения к удаленному серверу
+DB_ENGINE, DB_NAME, DB_USER, DB_PASSWORD, DB_HOST, DB_PORT - для подключения БД
 TELEGRAM_TO, TELEGRAM_TOKEN - для отправки сообщений в Telegram
 ```
 ### Развертывание приложения
